@@ -27,6 +27,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-07-09 | Energy-Efficient Sensor Data Collection Approach for Industrial Process Monitoring                     | [Link](https://www.youtube.com/watch?v=5x-6gMXWgOc) |
 | 2025-08-12 | LGAT: A novel model for multivariate time series anomaly detection with improved anomaly transformer and learning graph structures | [Link](https://www.youtube.com/watch?v=ab6zdnfZ4xA) |
 | 2025-09-05 | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification             | [Link](https://www.youtube.com/watch?v=y8wwyFIZar4) |
+| 2025-09-30 | PatchAD: A Lightweight Patch-Based MLP-Mixer for Time Series Anomaly Detection             | [Link](https://www.youtube.com/watch?v=XhXVEq9zzbc&t=1s) |
+| 2025-10-24 | Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection             | [Link](https://www.youtube.com/watch?v=TdtfzcQ3iw8&t=1286s) |
+| 2025-11-07 | TriP-LLM: A Tri-Branch Patch-Wise Large Language Model Framework for Time-Series Anomaly Detection             | [Link](https://www.youtube.com/watch?v=hISBh84oKLI&t=47s) |
 ---
 
 
