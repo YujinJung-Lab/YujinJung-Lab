@@ -30,6 +30,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-09-30 | PatchAD: A Lightweight Patch-Based MLP-Mixer for Time Series Anomaly Detection             | [Link](https://www.youtube.com/watch?v=XhXVEq9zzbc&t=1s) |
 | 2025-10-24 | Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection             | [Link](https://www.youtube.com/watch?v=TdtfzcQ3iw8&t=1286s) |
 | 2025-11-07 | TriP-LLM: A Tri-Branch Patch-Wise Large Language Model Framework for Time-Series Anomaly Detection             | [Link](https://www.youtube.com/watch?v=hISBh84oKLI&t=47s) |
+| 2025-12-12 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models             | [Link](https://www.youtube.com/watch?v=Bu-D5GSoMls) |
+| 2026-01-09 | Small object few-shot segmentation for vision-based industrial inspection             | [Link](https://www.youtube.com/watch?v=d-6XrA_wFx4) |
+| 2026-01-20 | Reconfigurable Liquid Crystal-Based Physical Unclonable Function Integrating Optical and Electrical Responses             | [Link](https://www.youtube.com/watch?v=fhicABTG7_c&t=670s)) |
 ---
 
 
@@ -48,7 +51,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ### Program Registrations
 -  Context-Aware LLM Controller의 구현 프로그램
-   - 등록 번호: 
+   - 등록 번호: 제C-2026-003757호
    - 설명: 다중 센서 통합과 LLM 정책결정을 활용한 지능형 설비 이상 탐지 소프트웨어 프로그램
 
 ### Patents
