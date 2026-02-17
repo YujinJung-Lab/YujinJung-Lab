@@ -32,7 +32,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-11-07 | TriP-LLM: A Tri-Branch Patch-Wise Large Language Model Framework for Time-Series Anomaly Detection             | [Link](https://www.youtube.com/watch?v=hISBh84oKLI&t=47s) |
 | 2025-12-12 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models             | [Link](https://www.youtube.com/watch?v=Bu-D5GSoMls) |
 | 2026-01-09 | Small object few-shot segmentation for vision-based industrial inspection             | [Link](https://www.youtube.com/watch?v=d-6XrA_wFx4) |
-| 2026-01-20 | Reconfigurable Liquid Crystal-Based Physical Unclonable Function Integrating Optical and Electrical Responses             | [Link](https://www.youtube.com/watch?v=fhicABTG7_c&t=670s)) |
+| 2026-01-20 | Reconfigurable Liquid Crystal-Based Physical Unclonable Function Integrating Optical and Electrical Responses             | [Link](https://www.youtube.com/watch?v=fhicABTG7_c&t=670s) |
 ---
 
 
