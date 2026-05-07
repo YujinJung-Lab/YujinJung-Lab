@@ -33,6 +33,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-12-12 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models             | [Link](https://www.youtube.com/watch?v=Bu-D5GSoMls) |
 | 2026-01-09 | Small object few-shot segmentation for vision-based industrial inspection             | [Link](https://www.youtube.com/watch?v=d-6XrA_wFx4) |
 | 2026-01-20 | Reconfigurable Liquid Crystal-Based Physical Unclonable Function Integrating Optical and Electrical Responses             | [Link](https://www.youtube.com/watch?v=fhicABTG7_c&t=670s) |
+| 2026-02-13 | LogicQA: Logical Anomaly Detection with Vision Language Model Generated Questions             | [Link](https://www.youtube.com/watch?v=luA94iSJuSU&t=868s) |
+| 2026-02-20 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis             | [Link](https://www.youtube.com/watch?v=c7_dD5wo1Cg&t=2s) |
+| 2026-03-26 | NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines             | [Link]([https://www.youtube.com/watch?v=fhicABTG7_c&t=670s] |
+| 2026-04-30 | Can Multimodal LLMs Perform Time Series Anomaly Detection?             | [Link](https://www.youtube.com/watch?v=upFwjM2QkF0&t=1011s) |
+| 2026-05-28 | Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches             | [Link](https://www.youtube.com/watch?v=jTZo3nx4D3w&t=1s) |
 ---
 
 
